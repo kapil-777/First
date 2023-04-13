@@ -3,5 +3,6 @@ class First{
         System.out.println("first hello");
         System.out.println("second");
         System.out.println("third");
+        System.out.println("hi");
     }
 }
